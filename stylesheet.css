@@ -1,0 +1,64 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+nav {
+	background-color:#A8C6FA;
+	padding: 1px;
+}
+
+nav li {
+	display: inline-block;
+	list-style: none;
+	color: #FFF;
+}
+
+#logo {
+	font-weight: bold;
+}
+
+#courses {
+	padding: 0.5% 2%;
+	border-radius: 5%;
+	background-color: #2196F3;
+}
+
+#schedule {
+	padding: 0.5% 2%;
+	border-radius: 5%;
+	background-color: #fff;
+	color: #91BBFA;
+}
+
+.page-one {
+	height: 100vh;
+	background-image: url("img/stars.svg");
+	background-color: #D4E3FC;
+}
+.page-one img {
+	display: inline-block;
+	padding:5% 2%;
+	width:30%;
+}
+
+#first-button {
+	display: inline-block;
+	position: absolute;
+	top:35%;
+	right:15%;
+	padding: 1% 7.5%;
+	border: none;
+	border-radius: 2.5%;
+	background-color: #92D36E;
+	color: #fff;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+#es {
+	width: 10%;
+}
+
+
+

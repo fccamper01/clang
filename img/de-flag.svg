@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="372px" viewBox="0 0 372 372" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>de-flag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="186" cy="186" r="186"></circle>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="de-flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(-60.000000, -8.000000)" id="Shape">
+                    <polygon fill="#FFCC00" points="0 248.274739 491.123709 248.274739 491.123709 379.360302 0 379.360302"></polygon>
+                    <polygon fill="#FF0000" points="0 80.1853811 491.123709 80.1853811 491.123709 248.270902 0 248.270902"></polygon>
+                    <polygon fill="#000000" points="0 0.114702753 491.79661 0.114702753 491.79661 131.200266 0 131.200266"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
